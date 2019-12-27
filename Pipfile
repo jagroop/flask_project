@@ -10,7 +10,7 @@ click = "==6.6"
 flask = "==0.11.1"
 itsdangerous = "==0.24"
 Jinja2 = "==2.8"
-Werkzeug = "==0.11.11"
+Werkzeug = "==0.15.3"
 MarkupSafe = "==0.23"
 
 [requires]
